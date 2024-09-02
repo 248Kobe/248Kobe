@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I am an undergraduate student in Computer Science at Handong Global University.
+
+<!--
+## 프로젝트/서비스
+## 활동 내역
+## 수상 내역
+
+
+
 <!--
 **248Kobe/248Kobe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
