@@ -2,7 +2,7 @@
 
 I am an undergraduate student in Computer Science at Handong Global University.
 
-🔗 블로그: https://compfriend.tistory.com/
+🔗 블로그: https://velog.io/@ecjung077/posts
 
 프로젝트 / 서비스
 
