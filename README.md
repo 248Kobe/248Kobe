@@ -10,7 +10,7 @@ I am an undergraduate student in Computer Science at Handong Global University.
 
 ### 활동 내역
 
-2024.07 ~ 2024.08 - 아산나눔재단 아산두어스 창업 부트캠프 2기
+2024.07 ~ 2024.08 - 아산나눔재단 아산두어스 창업 부트캠프 2기 <br>
 2024.03 ~ 현재 - 한동대학교 컴퓨터 전산동아리 Computer Research Association (CRA)
 
 ### 수상 내역
