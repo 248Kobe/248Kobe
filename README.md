@@ -2,7 +2,7 @@
 
 I am an undergraduate student in Computer Science at Handong Global University.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=248Kobe&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=248Kobe&show_icons=true&theme=radical)
 
 🔗 블로그: https://velog.io/@ecjung077/posts
 
