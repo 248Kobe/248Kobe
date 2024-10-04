@@ -19,7 +19,7 @@ I am an undergraduate student in Computer Science at Handong Global University.
 
 2022.08 - 군방경진대회 본선 진출 (1000팀 중 46팀)
 
-2021.11 - 한동대학교 SW페스티벌 1학년 자작소프트웨어 공모전 부문 최우수상
+2021.11 - 한동대학교 SW페스티벌 1학년 자작소프트웨어 공모전 부문 최우수상 <br>
 2021.11 - 한동대학교 SW페스티벌 문제해결 아이디어 공모전 부문 장려상
 
 
