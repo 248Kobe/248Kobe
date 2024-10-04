@@ -4,16 +4,16 @@ I am an undergraduate student in Computer Science at Handong Global University.
 
 🔗 블로그: https://velog.io/@ecjung077/posts
 
-프로젝트 / 서비스
+### 프로젝트 / 서비스
 
 2024.06 ~ 2024.09 - 동공확장 : 한동대 공연 동아리 자체공연 예메 서비스 (개발 스택: React + Node.js) 
 
-활동 내역
+### 활동 내역
 
 2024.07 ~ 2024.08 - 아산나눔재단 아산두어스 창업 부트캠프 2기
 2024.03 ~ 현재 - 한동대학교 컴퓨터 전산동아리 Computer Research Association (CRA)
 
-수상 내역
+### 수상 내역
 
 2024.08 - 아산두어스 창업 부트캠프 2기 장려상 (LittleTrip - 경유객들을 위한 투어 추천 서비스)
 
