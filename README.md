@@ -31,4 +31,4 @@ My recent work focuses on **surveillance video understanding with VLMs**, and I'
 - Best Award, Self-made Software Category, Handong Software Festival (2021)
 
 ### 🧰 Tech Stack
-Python · PyTorch · Hugging Face Transformers · OpenCV · [others]
+Python · PyTorch · Hugging Face Transformers · OpenCV
